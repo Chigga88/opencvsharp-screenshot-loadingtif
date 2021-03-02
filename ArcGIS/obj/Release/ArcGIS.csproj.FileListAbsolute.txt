@@ -1,0 +1,7 @@
+D:\项目\BlackHole\ArcGIS\bin\Release\ArcGIS.dll
+D:\项目\BlackHole\ArcGIS\bin\Release\ArcGIS.pdb
+D:\项目\BlackHole\ArcGIS\bin\Release\MJ.Common.dll
+D:\项目\BlackHole\ArcGIS\bin\Release\MJ.Common.pdb
+D:\项目\BlackHole\ArcGIS\obj\Release\ResolveAssemblyReference.cache
+D:\项目\BlackHole\ArcGIS\obj\Release\ArcGIS.dll
+D:\项目\BlackHole\ArcGIS\obj\Release\ArcGIS.pdb
